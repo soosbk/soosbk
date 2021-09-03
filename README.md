@@ -8,21 +8,20 @@
 </h6>
 <div align=center><h2>STACK</h2></div>
 
-<div align=center>
-<img alt="C" src ="https://img.shields.io/badge/-C-3039ff.svg?&style=for-the-badge&logo=C&logoColor=3039ff"/>
-<img alt="C++" src ="https://img.shields.io/badge/-C++-ff3bf3.svg?&style=for-the-badge&logo=C++&logoColor=ff3bf3"/>
-<img alt="Python" src ="https://img.shields.io/badge/3776AB-Python-11d800.svg?&style=for-the-badge&logo=Python&logoColor=11d800"/>
-<img alt="JAVA" src ="https://img.shields.io/badge/-Java-ff3114.svg?&style=for-the-badge&logo=JAVA&logoColor=ff3114"/>
-<img alt="Django" src ="https://img.shields.io/badge/-Django-ff741f.svg?&style=for-the-badge&logo=Django&logoColor=ff741f"/></div>
-[![C](https://img.shields.io/badge/-C-3039ff)](https://github.com/soosbk)
-	
-[![C++](https://img.shields.io/badge/-C++-ff3bf3)](https://github.com/soosbk)
-	
-[![Python](https://img.shields.io/badge/-Python-11d800)](https://github.com/soosbk)
-	
-[![JAVA](https://img.shields.io/badge/-Java-ff3114)](https://github.com/soosbk)
-	
-[![Django](https://img.shields.io/badge/-Django-ff741f)](https://github.com/soosbk)
+
+
+<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+</br>
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/C-3039ff?style=flat-square&logo=C&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/c++-ff3bf3?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/Python-11d800?style=flat-square&logo=Python&logoColor=11d800"/></a> &nbsp 
+<img src="https://img.shields.io/badge/Java-ff3114?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/Django-ff741f?style=flat-square&logo=Django%2B%2B&logoColor=white"/></a> &nbsp 
+
+</p>
 
 
   <div align=center>
