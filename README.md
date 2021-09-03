@@ -1,14 +1,36 @@
 
 
-<h1>👋 Hi, I’m @soosbk</h1><br><br>
-- 👀 My major is cryptography.
-- 🌱 I'm currently dreaming of becoming a backend developer.
-- 📫 This is my blog address... -> https://mypage-dream.tistory.com/
+<h1>👋 Hi, I’m @soosbk :raising_hand: </h1><br><br>
+<h6>
+- 👀 My major is cryptography. <br>
+- :muscle: My Double major is computer science.<br>
+- 🌱 I'm currently dreaming of becoming a web backend developer.
+</h6>
+<div align=center><h2>STACK</h2></div>
 
+<div align=center, displya:flex; align-items:center>
+<img alt="C" src ="https://img.shields.io/badge/-C-3039ff.svg?&style=for-the-badge&logo=C&logoColor=3039ff"/>
+<img alt="C++" src ="https://img.shields.io/badge/-C++-ff3bf3.svg?&style=for-the-badge&logo=C++&logoColor=ff3bf3"/>
+<img alt="#3776AB" src ="https://img.shields.io/badge/-Python-11d800.svg?&style=for-the-badge&logo=Python&logoColor=11d800"/>
+<img alt="JAVA" src ="https://img.shields.io/badge/-Java-ff3114.svg?&style=for-the-badge&logo=JAVA&logoColor=ff3114"/>
+<img alt="Django" src ="https://img.shields.io/badge/-Django-ff741f.svg?&style=for-the-badge&logo=Django&logoColor=ff741f"/></div>
+[![C](https://img.shields.io/badge/-C-3039ff)](https://github.com/soosbk)
+	
+[![C++](https://img.shields.io/badge/-C++-ff3bf3)](https://github.com/soosbk)
+	
+[![Python](https://img.shields.io/badge/-Python-11d800)](https://github.com/soosbk)
+	
+[![JAVA](https://img.shields.io/badge/-Java-ff3114)](https://github.com/soosbk)
+	
+[![Django](https://img.shields.io/badge/-Django-ff741f)](https://github.com/soosbk)
+
+
+  <div align=center>
+	
 
 [![Blog](https://img.shields.io/badge/-Tistory-a5f1c0)](https://mypage-dream.tistory.com/)
 
-
+</div>
 
   <div align=center>
 	
