@@ -12,4 +12,15 @@
   </div>
   
   https://img.shields.io/badge/-Tistory-a5f1c0
+  
+  
+  https://img.shields.io/github/languages/count/beygee/survive 
+
+https://img.shields.io/github/languages/top/beygee/survive
+
+https://img.shields.io/github/issues-closed/beygee/survive
+//깃헙 레포 주간 커밋 수
+https://img.shields.io/github/commit-activity/w/beygee/survive
+//깃헙 레포 라스트 커밋 날짜
+https://img.shields.io/github/last-commit/beygee/survive
 
