@@ -11,7 +11,7 @@
 	
   </div>
   <div align=center>
- [ https://img.shields.io/badge/-Tistory-a5f1c0]
+ [ (https://img.shields.io/badge/-Tistory-a5f1c0)]
   </div>
   
   https://img.shields.io/github/languages/count/beygee/survive 
