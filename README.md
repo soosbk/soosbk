@@ -39,7 +39,6 @@
   <div align=center>
  
   </div>
-  [![soosbk's GitHub stats](https://github-readme-stats.vercel.app/api?username=soosbk)](https://github.com/anuraghazra/github-readme-stats)
 
   [![Hits]https://img.shields.io/github/languages/count/beygee/survive 
 
