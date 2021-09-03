@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @soosbk
+
+
+<h1>👋 Hi, I’m @soosbk</h1><br><br>
 - 👀 My major is cryptography.
 - 🌱 I'm currently dreaming of becoming a backend developer.
 - 📫 This is my blog address... -> https://mypage-dream.tistory.com/
+
+
+[![Blog](https://img.shields.io/badge/-Tistory-a5f1c0)](https://mypage-dream.tistory.com/)
 
 
 
@@ -11,7 +16,7 @@
 	
   </div>
   <div align=center>
- [ (https://img.shields.io/badge/-Tistory-a5f1c0)]
+ 
   </div>
   
   https://img.shields.io/github/languages/count/beygee/survive 
