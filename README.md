@@ -39,8 +39,10 @@
   <div align=center>
  
   </div>
-  
-  https://img.shields.io/github/languages/count/beygee/survive 
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={sb121300})](https://solved.ac/{sb121300})
+
+  [![Hits]https://img.shields.io/github/languages/count/beygee/survive 
 
 https://img.shields.io/github/languages/top/beygee/survive
 
