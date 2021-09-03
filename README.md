@@ -38,10 +38,10 @@
   <div align=center>
 	
  <br>
+	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sb121300)](https://solved.ac/sb121300/)
-  </div>
-  <div align=center>
- 
-  </div>
+  
+</div>
+  
 
 
