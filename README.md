@@ -8,10 +8,10 @@
 </h6>
 <div align=center><h2>STACK</h2></div>
 
-<div align=center, displya:flex; align-items:center>
+<div align=center>
 <img alt="C" src ="https://img.shields.io/badge/-C-3039ff.svg?&style=for-the-badge&logo=C&logoColor=3039ff"/>
 <img alt="C++" src ="https://img.shields.io/badge/-C++-ff3bf3.svg?&style=for-the-badge&logo=C++&logoColor=ff3bf3"/>
-<img alt="#3776AB" src ="https://img.shields.io/badge/-Python-11d800.svg?&style=for-the-badge&logo=Python&logoColor=11d800"/>
+<img alt="Python" src ="https://img.shields.io/badge/3776AB-Python-11d800.svg?&style=for-the-badge&logo=Python&logoColor=11d800"/>
 <img alt="JAVA" src ="https://img.shields.io/badge/-Java-ff3114.svg?&style=for-the-badge&logo=JAVA&logoColor=ff3114"/>
 <img alt="Django" src ="https://img.shields.io/badge/-Django-ff741f.svg?&style=for-the-badge&logo=Django&logoColor=ff741f"/></div>
 [![C](https://img.shields.io/badge/-C-3039ff)](https://github.com/soosbk)
