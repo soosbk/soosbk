@@ -4,7 +4,7 @@
 <h6>
 - 👀 My major is cryptography. <br>
 - :muscle: My Double major is computer science.<br>
-- 🌱 I'm currently dreaming of becoming a web backend developer.
+- 🌱 I'm currently dreaming of becoming a developer.
 </h6>
 
 <div align=center>
